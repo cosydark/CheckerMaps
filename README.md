@@ -1,2 +1,1 @@
-# CheckerMaps
-A Repository For Maps Storage
+# A Repository For Maps Storage
